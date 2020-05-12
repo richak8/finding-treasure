@@ -1,0 +1,2 @@
+- Local set up has been done using create-react-app
+- to Run the local env: 'npm start'
