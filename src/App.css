@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.wrapper {
+  border: 1px solid;
+  width: 50%;
+  margin: 1rem auto;
+  padding: 2rem;
+}
+
+.grid {
+  margin: 1rem;
+}
+
+.gridRows {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.treasureBlock {
+  border: 1px solid;
+  min-width: 5rem;
+  min-height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
